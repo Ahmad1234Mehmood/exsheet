@@ -1,0 +1,9 @@
+/* Row.css */
+.row {
+  display: flex;
+  border-bottom: 1px solid #ddd;
+}
+
+.row:last-child {
+  border-bottom: none;
+}
